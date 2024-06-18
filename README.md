@@ -1,6 +1,7 @@
 # Алгоритм
 
-![image](https://github.com/YuliyaNemchaninova/Order/assets/47818848/4a383237-79c4-47f7-b57e-d0de35ef4d99)
+![image](https://github.com/YuliyaNemchaninova/Order/assets/47818848/2532e0fb-c5de-46a2-856a-aae4518e5a81)
+
 
 # **Установка**
 
